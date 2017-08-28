@@ -4,7 +4,7 @@
 
 An empty Ableton Live project file, set up for a fast production workflow.
 
-Two templates are provided, **Ultimate Template** and **Simple Template**.
+Three templates are provided, **Ultimate Template**, **Simple Template** and **Middle Template**.
 
 **Ultimate Template** has everything divided into groups by default and requires some proprietary plug-ins.
 
@@ -12,5 +12,13 @@ Each group has at least 1 MIDI and 1 WAV group. The perc group has many differen
 
 **Simple Template** keeps the same colors, but does not separate tracks into groups or include a sidechain compressor on anything. It also uses 100% stock Ableton plugins.
 
+**Middle Template** is like the baby bear of the group. After using both of the others, this is the one I settled down into using. Percs are grouped, there are a few effects thrown on here and there, and everything is stock Ableton so it's low-CPU by default. It also includes marked "sections" for the into and drop of a particular Rage Logic song I like.
+
+## Using as Default
+
+![](http://i.imgur.com/pFRii4Q.png)
+
+_From 9.7.3 onwards_: Open up one of these projects, modify to your personal taste, then open up Ableton's preferences, and from the "File Folder" Tab, hit "Save Current Set as Default". Now every new Set you start will have this awesome template!
+
 ## By Rich Jones
-CC-BY
+CC-BY, 2017.
