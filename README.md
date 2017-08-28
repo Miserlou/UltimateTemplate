@@ -20,5 +20,8 @@ Each group has at least 1 MIDI and 1 WAV group. The perc group has many differen
 
 _From 9.7.3 onwards_: Open up one of these projects, modify to your personal taste, then open up Ableton's preferences, and from the "File Folder" Tab, hit "Save Current Set as Default". Now every new Set you start will have this awesome template!
 
+## Related
+ * [ADGMaker](https://github.com/Miserlou/ADGMaker) - Create Ableton Live Instruments from Philharmonia Samples.
+
 ## By Rich Jones
 CC-BY, 2017.
